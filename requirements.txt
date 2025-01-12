@@ -2,5 +2,5 @@ scapy==2.4.5
 paramiko==3.4.0
 dnspython==2.6.1
 dnslib==0.9.25
-pyftpdlib==1.5.10
+pyftpdlib==2.0.1
 impacket==0.11.0
