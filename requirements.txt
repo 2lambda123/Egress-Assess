@@ -1,4 +1,4 @@
-scapy==2.4.5
+scapy==2.6.1
 paramiko==3.5.0
 dnspython==2.6.1
 dnslib==0.9.25
